@@ -5,3 +5,5 @@ SerialPort Sample ( RS232 )
 
 가상 Port 생성은 편하신 프로그램 받아서 Pair로 맞춰놓으면 알아서 주고받는거 아시죠 ㅎ?;
 
+using 
+Visual Studio 2017 Pro, C#, Winform
